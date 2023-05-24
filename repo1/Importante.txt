@@ -1,0 +1,4 @@
+Archivos generados automaticamente 
+Informacion Confidencial 
+API Keys
+Paquetes de la aplicacion (se gestionan aparte)
